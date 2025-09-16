@@ -32,4 +32,4 @@ Cloud & Tools: Git, GitHub, Docker, REST APIs
 
 * 🌍  I'm based in India
 * 🧠  I'm currently learning 🌱 I’m Currently Learning 🧑‍💻 Three.js (3D Web Development) – Exploring interactive 3D graphics on the web applications.
-* 💬  Ask me about ✨ “Code. Learn. Build. Repeat.”
+* 💬  ✨ “Code. Learn. Build. Repeat.”
