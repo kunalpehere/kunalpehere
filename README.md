@@ -10,7 +10,7 @@ MERN Developer
 
 🔧 Tech Stack
 
-Languages: C++, Python, JavaScript, Java
+Languages: Python, JavaScript, Java
 
 Web Development: MERN Stack (MongoDB, Express.js, React, Node.js), Spring Boot
 
@@ -18,18 +18,15 @@ Databases: MySQL, MongoDB
 
 Data/ML: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-Cloud & Tools: Git, GitHub, Docker, REST APIs
+Tools: Git, GitHub,
 
 📌 Highlights
 
-🌱 Built projects in E-Commerce Analytics, Food Ordering Systems, Plant Recognition, Othello AI, and Speech Recognition
+🌱 Built projects in E-Commerce Analytics, Food Ordering Systems 
 
 📊 Experience in Data Analytics & Machine Learning with visualization-driven insights
 
-☁️ Learning Cloud Engineering & Scalable Systems
+🤝 Open to collaborating on Full-Stack, AI/MLprojects
 
-🤝 Open to collaborating on Full-Stack, AI/ML, and Cloud-based projects
-
-* 🌍  I'm based in India
 * 🧠  I'm currently learning 'n8n' 🌱, a powerful open-source workflow automation tool 🧑‍💻 that helps connect services and automate tasks.
 * 💬  ✨ “Code. Learn. Build. Repeat.”
