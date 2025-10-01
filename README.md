@@ -31,5 +31,5 @@ Cloud & Tools: Git, GitHub, Docker, REST APIs
 🤝 Open to collaborating on Full-Stack, AI/ML, and Cloud-based projects
 
 * 🌍  I'm based in India
-* 🧠  I'm currently learning 🌱 I’m Currently Learning 🧑‍💻 Three.js (3D Web Development) – Exploring interactive 3D graphics on the web applications.
+* 🧠  I'm currently learning 'n8n' 🌱, a powerful open-source workflow automation tool 🧑‍💻 that helps connect services and automate tasks.
 * 💬  ✨ “Code. Learn. Build. Repeat.”
