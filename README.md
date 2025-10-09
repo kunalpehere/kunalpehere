@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN Developer
 --------------
 
-💻 Passionate about Full Stack Web Development, Artificial Intelligence, Cloud Computing, and Data Analytics
+💻 Passionate about  Web Development, Artificial Intelligence, Cloud Computing.
 
 🚀 Constantly exploring new technologies and building projects that bridge ideas with real-world impact
 
@@ -23,8 +23,6 @@ Tools: Git, GitHub,
 📌 Highlights
 
 🌱 Built projects in E-Commerce Analytics, Food Ordering Systems 
-
-📊 Experience in Data Analytics & Machine Learning with visualization-driven insights
 
 🤝 Open to collaborating on Full-Stack, AI/MLprojects
 
