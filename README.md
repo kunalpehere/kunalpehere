@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Python, Node.js, React, Next.js**
 
-- ⚡ Fun fact **I enjoy turning ideas into real-world software solutions and continuously exploring new technologies.**
+- ⚡ **I enjoy turning ideas into real-world software solutions and continuously exploring new technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
