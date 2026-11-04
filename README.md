@@ -64,11 +64,19 @@ I enjoy exploring new technologies, solving programming problems, and developing
 
 ---
 
-### 📊 GitHub Statistics
+<h2 align="left">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalpehere&show_icons=true&theme=transparent&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalpehere&layout=compact&theme=transparent&hide_border=true" height="165" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=kunalpehere&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400"
+    height="165"
+    alt="Kunal's GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=kunalpehere&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400"
+    height="165"
+    alt="Kunal's Top Languages"
+  />
 </p>
 
 ---
