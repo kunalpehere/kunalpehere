@@ -79,11 +79,8 @@ I enjoy exploring new technologies, solving programming problems, and developing
   <a href="https://www.linkedin.com/in/kunal-pehere-cse">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/sketch_1108/">
+  <a href="https://leetcode.com/u/kunalpehere/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/kunalpe8z8i">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
   <a href="mailto:kunalpehere873@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
