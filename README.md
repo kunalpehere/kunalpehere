@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="./banner.png"
+       alt="Kunal Pehere - Software Developer"
+       width="100%" />
+</p>
+
+
 # Hi, I'm Kunal Pehere 👋
 
 ### Computer Engineering Graduate | Aspiring Software Developer
